@@ -1,0 +1,6 @@
+public class HelloWorld{
+  public static void main(String[] argc){
+    System.out.println("Hello World!");
+  }
+}
+![結果展示](img-storage/java_1.jpg)
