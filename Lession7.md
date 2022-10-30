@@ -27,6 +27,7 @@ public class HelloWorld{
 		}
      }
 }
+```
 ![Image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_7-1.jpg)
 
 找中位數
