@@ -133,6 +133,7 @@ public class hw2 {
     }
 }
 ```
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-4.jpg)
 
 進制轉換
 ```java
@@ -186,6 +187,6 @@ public class hw3 {
         System.exit(0);
     }
 }
-
-![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-4.jpg)
+```
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-5.jpg)
 
