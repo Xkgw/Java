@@ -26,7 +26,7 @@ public class class_hw{
     }
 }
 ```
-![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-1.jpg)
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_3-1.jpg)
 
 計算距離
 ```java
@@ -57,7 +57,7 @@ public class hw4 {
     }
 }
 ```
-![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-2.jpg)
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_3-2.jpg)
 
 判斷是否數字是否由小至大 2>5>8
 ```java
@@ -97,7 +97,7 @@ public class hw1
     
 }
 ```
-![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-3.jpg)
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_3-3.jpg)
 
 反轉數字
 ```java
@@ -133,7 +133,7 @@ public class hw2 {
     }
 }
 ```
-![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-4.jpg)
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_3-4.jpg)
 
 進制轉換
 ```java
@@ -188,5 +188,5 @@ public class hw3 {
     }
 }
 ```
-![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_2-5.jpg)
+![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_3-5.jpg)
 
