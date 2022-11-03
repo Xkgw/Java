@@ -102,35 +102,20 @@ public class hw1
 反轉數字
 ```java
 import java.util.Scanner;
-public class hw2 {
-    public static void main(String args[]) {
-        Scanner scn = new Scanner(System.in);
-        String str;
+public class aaa{
+	public static void main(String args[]){
+		Scanner scn = new Scanner(System.in);
+		int x,sum=0;
+		x = scn.nextInt();
+		String to_string;
+		to_string = Integer.toString(x);
 
-        System.out.print("Input (less than 5 digits): ");
-        str = scn.next();
-        char[] n = new char[5];
-        for(int i=0; i<5; i++)
-            n[i]=0;
-        int len = str.length();
-        if(len>4) {
-            System.out.print("input error, less than 5 digits");
-            System.exit(0);
-        }
-        for(int i=0; i<len; i++)
-            n[len-i] = str.charAt(i);
-
-        System.out.print("resverse ans:");
-        if(n[1]!='0') System.out.print((char)n[1]);
-        if(n[1]=='0' && n[2]=='0') {
-        } else System.out.print((char)n[2]);
-
-        if(n[1]=='0' && n[2]=='0' && n[3]=='0') {
-        } else System.out.print((char)n[3]);
-        System.out.print((char)n[4]);
-
-        System.exit(0);
-    }
+		for(int i=0;i<to_string.length();i++){
+			int to_int = (int)(to_string.charAt(i)) - '0';
+			sum += to_int*(Math.pow(10,i));
+		}
+		System.out.print(sum);
+	}
 }
 ```
 ![image_Text](https://github.com/Xkgw/Java/blob/main/img-storage/java_3-4.jpg)
